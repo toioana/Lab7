@@ -10,3 +10,5 @@ Rezultatele vr fi primite in onActivityResult.
 
 Pentru text to speech folosim clasa cu acceasi denumire, definim un obiect de acest tip(TextToSpeech), il initializam, ii setam limba si 
 chemam metoda ce transforma textul in discurs
+
+VIDEO: textToSpeech.webm
